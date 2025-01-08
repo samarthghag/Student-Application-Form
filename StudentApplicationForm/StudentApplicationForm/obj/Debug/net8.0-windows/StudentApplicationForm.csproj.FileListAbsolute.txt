@@ -1,0 +1,16 @@
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\bin\Debug\net8.0-windows\StudentApplicationForm.exe
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\bin\Debug\net8.0-windows\StudentApplicationForm.deps.json
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\bin\Debug\net8.0-windows\StudentApplicationForm.runtimeconfig.json
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\bin\Debug\net8.0-windows\StudentApplicationForm.dll
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\bin\Debug\net8.0-windows\StudentApplicationForm.pdb
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.Form1.resources
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.csproj.GenerateResource.cache
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.AssemblyInfoInputs.cache
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.AssemblyInfo.cs
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.csproj.CoreCompileInputs.cache
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.dll
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\refint\StudentApplicationForm.dll
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.pdb
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\StudentApplicationForm.genruntimeconfig.cache
+C:\Users\Samarth\source\repos\StudentApplicationForm\StudentApplicationForm\obj\Debug\net8.0-windows\ref\StudentApplicationForm.dll
